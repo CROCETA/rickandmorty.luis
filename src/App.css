@@ -12,3 +12,9 @@ body, html {
   flex-direction: column;
   text-align: center;
 }
+ .imgpassaro{
+  width: 300px;
+  height: auto;
+  border-radius: 10px;
+ }
+ 
