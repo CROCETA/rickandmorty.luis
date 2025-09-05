@@ -12,7 +12,7 @@ function App() {
         <p>Status: Morto</p>
         <p>Espécie: Alienígena</p>
         <p>Gênero: Masculino</p>
-        <p>Último episódio: Os Squanchers do Casamento</p>
+        <p>Último episódio: Os Squanchers do Casamento!</p>
       </div>
     </div>
   );
