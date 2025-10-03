@@ -2,6 +2,7 @@ body, html {
   margin: 0;
   padding: 0;
   height: 100%;
+  font-family: Arial, sans-serif;
 }
 
 .container {
@@ -11,10 +12,27 @@ body, html {
   align-items: center;
   flex-direction: column;
   text-align: center;
+  padding: 20px;
 }
- .imgpassaro{
+
+.imgpassaro {
   width: 300px;
   height: auto;
   border-radius: 10px;
- }
- 
+  margin-bottom: 15px;
+}
+.botao {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #00b5cc;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.botao:hover {
+  background-color: #008ea3;
+}
